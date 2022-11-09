@@ -1,3 +1,5 @@
+//NO SE ME ACTUALIZA EL VECTOR
+
 #include<stdio.h>
 #include <string.h>
 
